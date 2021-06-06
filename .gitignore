@@ -1,0 +1,11 @@
+node_modules/
+coverage/
+dist/
+
+.npmrc
+pnpm-debug.log*
+
+
+# Office temporary files
+~\$*.pptx
+~\$*.docx

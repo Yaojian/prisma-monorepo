@@ -1,0 +1,22 @@
+{
+  "name": "prisma-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaojian/prisma-monorepo.git"
+  },
+  "author": "Yaojian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaojian/prisma-monorepo/issues"
+  },
+  "homepage": "https://github.com/Yaojian/prisma-monorepo#readme",
+  "main": "index.js",
+  "workspaces": [
+    "packages/server"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
